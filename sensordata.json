@@ -1,0 +1,9 @@
+[{temp:22.00, humidity: 50.10, soilmoisture: 370, lightsensor:171},
+{temp:22.10, humidity: 52.10, soilmoisture: 370, lightsensor:171},
+{temp:22.10, humidity: 51.40, soilmoisture: 371, lightsensor:157},
+{temp:22.10, humidity: 51.70, soilmoisture: 371, lightsensor:141},
+{temp:22.10, humidity: 52.20, soilmoisture: 385, lightsensor:471},
+{temp:22.10, humidity: 52.30, soilmoisture: 385, lightsensor:471},
+{temp:22.00, humidity: 52.50, soilmoisture: 385, lightsensor:470},
+{temp:22.00, humidity: 52.60, soilmoisture: 385, lightsensor:470}
+]
